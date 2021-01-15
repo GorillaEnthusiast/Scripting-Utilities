@@ -1,3 +1,4 @@
+local Camera = workspace.CurrentCamera
 local Player = game:GetService("Players").LocalPlayer
 local Mouse = Player:GetMouse()
 
